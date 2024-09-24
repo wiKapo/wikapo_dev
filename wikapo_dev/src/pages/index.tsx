@@ -32,13 +32,13 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              By{" "}
+              Made by
               <Image
-                src="/wKp_squared.png"
+                src="/wKp_compact.svg"
                 alt="wKp Logo"
-                // className={styles.vercelLogo}
-                width={50}
-                height={50}
+                className={styles.wKpLogo}
+                width={25}
+                height={25}
                 priority
               />
               wiKapo
